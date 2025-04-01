@@ -2,10 +2,11 @@
 
 ## Software Versions
 
+[V1.241125 - Rogue Outcast 1M Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST1MBEAM/blob/46f7c47059b62506d1ff1bdc79353e901ed7a9bf/Firmware/V1.241125.zip)
+- Add 2 steps standalone program
+
 [V1.240515 - Rogue Outcast 1M Beam](https://github.com/Chauvet-Pro/ROGUEOUTCAST1MBEAM/blob/1f88aa6639dedcc681613ebae6d76f2c0c08e09c/Firmware/V1.240515.zip)
 - Released initial software version
-
-&nbsp;
 
 &nbsp;
 
